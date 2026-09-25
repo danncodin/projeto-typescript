@@ -46,7 +46,7 @@ let idade: number = 25;
 ## Vídeo
 O material educativo foi disponibilizado em um vídeo não listado no YouTube e compartilhado individualmente com os participantes da aplicação do projeto.
 
-Vídeo: [INSERIR LINK DO YOUTUBE]
+Vídeo: https://www.youtube.com/watch?v=5tPJVjsouR0
 
 ## Aplicação
 O material foi aplicado junto a participantes da comunidade local interessados em desenvolvimento de software.
